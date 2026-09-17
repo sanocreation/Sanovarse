@@ -1,0 +1,6 @@
+{
+  "name": "CineVerse",
+  "description": "Discover movies, series, web series, and anime with instant search, HDHub style details, fast filters, and watchlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
